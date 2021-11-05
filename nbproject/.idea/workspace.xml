@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ae98bb2-526e-4f29-b4b0-cad2cc7c3deb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/com.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/classes/com/till/Start.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/classes/com/till/operations/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/classes/com/till/operations/PurchaseOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/classes/com/till/operations/SaleOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/classes/com/till/stock/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/com/till/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/com/till/operations/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/com/till/operations/PurchaseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/com/till/operations/SaleOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/com/till/stock/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="20VSEQZd2USYVbGnQtCJxjD7GJh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ae98bb2-526e-4f29-b4b0-cad2cc7c3deb" name="Changes" comment="" />
+      <created>1636128149542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636128149542</updated>
+    </task>
+    <servers />
+  </component>
+</project>
